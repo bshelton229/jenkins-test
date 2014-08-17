@@ -3,4 +3,4 @@ jenkins-test
 
 Testing Jenkins
 
-1
+My new feature was added.
